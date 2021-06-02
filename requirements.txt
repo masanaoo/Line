@@ -12,6 +12,6 @@ selenium==3.141.0
 six==1.13.0
 soupsieve==1.8
 twitter==1.18.0
-urllib3==1.24.1
+urllib3==1.26.5
 Flask==0.12.2
 line-bot-sdk==1.8.0
